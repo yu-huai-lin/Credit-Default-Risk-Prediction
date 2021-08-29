@@ -14,8 +14,11 @@ python version 3.6
 
 #### Libraries
 Package             Version
+
 boto3               1.18.27
+
 botocore            1.21.27
+
 matplotlib          3.4.3
 matplotlib-inline   0.1.2
 numpy               1.21.2
